@@ -1,0 +1,4 @@
+Model,Accuracy,Macro F1-score
+SVM,0.8166,0.8151
+Random Forest,0.8769,0.8748
+KNN,0.4874,0.4369
